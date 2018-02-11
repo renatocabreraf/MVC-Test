@@ -1,0 +1,65 @@
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\MVCTest.dll.config
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\MVCTest.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\MVCTest.pdb
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\Antlr3.Runtime.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\Newtonsoft.Json.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Optimization.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Razor.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\WebGrease.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Optimization.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.Razor.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\Newtonsoft.Json.xml
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\Antlr3.Runtime.pdb
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+C:\Users\teclandivar\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\MVCTest.dll.config
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\MVCTest.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\MVCTest.pdb
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\Antlr3.Runtime.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\Newtonsoft.Json.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Optimization.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Razor.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.WebPages.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\WebGrease.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Optimization.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.Razor.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.WebPages.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\Newtonsoft.Json.xml
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\Antlr3.Runtime.pdb
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\obj\Debug\MVCTest.csprojResolveAssemblyReference.cache
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+C:\Users\JoseCarlos\Documents\UNIVERSIDAD RAFAEL LANDIVAR\TERCER CICLO\Estructura de datos 1\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
